@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExIdade</string>
+    <string name="s_dia">Dia</string>
+    <string name="s_mes">Mês</string>
+    <string name="s_ano">Ano</string>
+    <string name="s_calcular">Calcular</string>
+    <string name="s_mensagem">Sua idade é de </string>
+</resources>
